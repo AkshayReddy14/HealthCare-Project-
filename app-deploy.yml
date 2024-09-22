@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: capstone-app-container
-        image: mehooman/healthcare:v1
+        image: mehooman/healthpro02:v1
         ports:
         - containerPort: 8082
 ---
